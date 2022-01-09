@@ -4,7 +4,7 @@ I'm a amateur coder.
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/tesla_0123)
 [![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square)](https://github.com/teslasand0987)
-[![DIscord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&style=flat-square)](https://sueqk.net/twin/discord)
+[![DIscord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&style=flat-square&logoColor=white)](https://sueqk.net/twin/discord)
 
 
 # status
