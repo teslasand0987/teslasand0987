@@ -15,5 +15,5 @@ I'm known gimmick inventor on VRChat.
 
 
 # status
-![teslasand0987 GitHub stats](https://github-readme-stats.vercel.app/api?username=teslasand0987&count_private=true&show_icons=true&theme=dracula) <br>
+![teslasand0987 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=teslasand0987&hide_title=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teslasand0987&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
