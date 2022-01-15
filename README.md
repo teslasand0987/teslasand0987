@@ -5,6 +5,7 @@ I'm known gimmick inventor on VRChat.
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2.svg?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/tesla_0123)
 [![GitHub](https://img.shields.io/badge/-Github-181717.svg?logo=github&style=flat-square)](https://github.com/teslasand0987)
+[![GitHub gist](https://img.shields.io/badge/github_gist-232F3E.svg&style=flat)](https://gist.github.com/teslasand0987)
 [![DIscord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&style=flat-square&logoColor=white)](https://sueqk.net/twin/discord)
 
 ## Using Language
