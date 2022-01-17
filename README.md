@@ -14,6 +14,9 @@ I'm known gimmick inventor on VRChat.
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=PHP&style=flat&logoColor=ccc)
 
+## Now Learing
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&style=flat&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=flat)
 
 # stats
 ![teslasand0987 GitHub stats](https://github-readme-stats.vercel.app/api?username=teslasand0987&hide_title=true&line_height=40&show_icons=true) <br>
